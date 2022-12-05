@@ -8,4 +8,4 @@ It contains all the recorded terrorist attacks from 1970 to 2017. The dataset ha
 
 
 # KEY LINKS TO THE FILES
-[I'm a relative reference to a repository file](jiawei321/Fairfield-U/)
+[FINAL NOTEBOOK](jiawei321/Fairfield-U/Final_Project_6505.ipynb)
