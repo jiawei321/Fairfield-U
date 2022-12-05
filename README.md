@@ -1,7 +1,7 @@
 # BA 6505 FINAL PROJECT README
 
 # **Analysis Based on Globlal Terrorism Database**
-##FALL 2022
+
 
 ## MOTIVATION
 Several months ago, we noticed a news that a terrorist organization caarried out an attack against Chinese teachers in Balchositan. Therefore, we want to know more about terrorist organizations and finally find a dataset called Global Terrorism Databse.
