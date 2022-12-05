@@ -26,4 +26,7 @@ It contains all the recorded terrorist attacks from 1970 to 2017. The dataset ha
 
 # KEY LINKS TO THE FILES
 [FINAL NOTEBOOK](https://github.com/jiawei321/Fairfield-U/blob/main/Final_Project_6505.ipynb)
+
 [GEO PLOT OF PAKISTAN, IRAN, AFHANISTAN](https://github.com/jiawei321/Fairfield-U/blob/main/geo_pakistan.png)
+
+[ETHNIC GROUPS IMAGE](https://github.com/jiawei321/Fairfield-U/blob/main/Ethnic%20groups.jpg)
